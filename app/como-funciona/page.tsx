@@ -190,7 +190,7 @@ export default function ComoFuncionaPage() {
               <AnimateOnScroll animation="fade-right" className="group">
                 <div className="rounded-2xl overflow-hidden border">
                   <Image
-                    src="/placeholder.svg?height=400&width=600&text=Interface%20Intuitiva"
+                    src="https://img.freepik.com/fotos-gratis/enfermeira-digitando-no-computador-marcando-consultas-enquanto-o-dentista-especialista-fala-com-o-paciente-na-cadeira-de-estomatologia-antes-do-exame-dentista-e-enfermeira-trabalhando-juntos-em-uma-moderna-clinica-de-estomatologia_482257-13449.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                     alt="Interface intuitiva do DentalCare"
                     width={600}
                     height={400}
@@ -427,7 +427,7 @@ export default function ComoFuncionaPage() {
               <AnimateOnScroll animation="fade-left" className="group">
                 <div className="rounded-2xl overflow-hidden border">
                   <Image
-                    src="/placeholder.svg?height=400&width=600&text=Suporte%20Especializado"
+                    src="https://img.freepik.com/fotos-gratis/retrato-de-funcionario-com-fone-de-ouvido_23-2148738313.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                     alt="Equipe de suporte DentalCare"
                     width={600}
                     height={400}

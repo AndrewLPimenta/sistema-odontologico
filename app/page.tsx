@@ -46,7 +46,7 @@ export default function Home() {
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center shadow-lg hover:shadow-xl transition-shadow"
                   height="310"
                   width="550"
-                  src="/placeholder.svg?height=620&width=1100"
+                  src="https://img.freepik.com/fotos-gratis/foto-do-dentista-sorridente-em-pe-com-os-bracos-cruzados-com-o-colega-mostrando-o-sinal-de-tudo-bem_496169-1043.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                 />
               </AnimateOnScroll>
             </div>
@@ -144,7 +144,7 @@ export default function Home() {
                   <h3 className="text-xl font-bold group-hover:text-primary transition-colors">Para Clínicas</h3>
                   <div className="overflow-hidden rounded-lg border">
                     <Image
-                      src="/placeholder.svg?height=200&width=400"
+                      src="https://img.freepik.com/fotos-gratis/modelo-de-outdoor-em-ambiente-urbano_23-2148197248.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                       alt="Dashboard da clínica"
                       width={400}
                       height={200}
@@ -197,7 +197,7 @@ export default function Home() {
                   <h3 className="text-xl font-bold group-hover:text-primary transition-colors">Para Pacientes</h3>
                   <div className="overflow-hidden rounded-lg border">
                     <Image
-                      src="/placeholder.svg?height=200&width=400"
+                      src="https://img.freepik.com/fotos-gratis/dentista-fazendo-um-check-up-no-paciente_23-2149206256.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                       alt="Aplicativo para pacientes"
                       width={400}
                       height={200}
@@ -276,8 +276,8 @@ export default function Home() {
                   </div>
                   <blockquote className="mt-4">
                     <p className="text-muted-foreground">
-                      "O sistema simplificou completamente a gestão da nossa clínica. Economizamos tempo e melhoramos o
-                      atendimento aos pacientes."
+                      "O sistema simplificou completamente a gestão da clínica. Economizamos tempo e melhoramos o
+                      atendimento."
                     </p>
                   </blockquote>
                   <div className="mt-4 flex items-center gap-2">
@@ -403,7 +403,7 @@ export default function Home() {
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center hover:scale-105 transition-transform duration-700"
                   height="310"
                   width="550"
-                  src="/placeholder.svg?height=620&width=1100"
+                  src="https://img.freepik.com/fotos-gratis/lista-de-tarefas-da-programacao-do-calendario_53876-121333.jpg?ga=GA1.1.477203261.1733778178&semt=ais_hybrid"
                 />
               </div>
             </AnimateOnScroll>
